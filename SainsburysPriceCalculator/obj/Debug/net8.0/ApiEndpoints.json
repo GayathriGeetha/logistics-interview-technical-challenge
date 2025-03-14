@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SainsburysPriceCalculator.Controllers.PricingController",
+    "Method": "CalculatePrice",
+    "RelativePath": "Pricing",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pricingRequest",
+        "Type": "SainsburysPriceCalculator.PricingRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
