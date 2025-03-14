@@ -20,8 +20,9 @@ Formula:
 (FlatRateJourneyPrice *(JourneyCodeValue) *(Distance/ 10))- Discount
 
 Example:
-JourneyCode = "A"
-Distance = 120
-Discount = 15
 
-Price = (10* 1.5) * 12- 15 = 165
+	JourneyCode = "A"
+	Distance = 120
+	Discount = 15
+
+	Price = (10* 1.5) * 12- 15 = 165
