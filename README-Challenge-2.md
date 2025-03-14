@@ -1,7 +1,10 @@
-# lat-interview-technical-challenge
+# lat-interview-technical-challenge-2
 
 You have been tasked with creating a calculator to price up a simple journey based on a
 few simple rules.
+
+Time Limit: 20 minutes
+
 
 ![Acceptance Criteria](ACs.jpg)
 
